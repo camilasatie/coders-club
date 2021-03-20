@@ -1,0 +1,42 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.container {  
+  background-color: #98AAFF;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+
+  .logo {
+    width: 100px;
+    height: auto;
+    margin-bottom: 30px;
+  }
+
+  .input {
+    color: #393f44;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+    box-sizing: border-box;
+    border: 1px solid #d3d3d3;
+    border-radius: 5px;
+
+    width: 300px;
+    padding: 10px;
+    margin-bottom: 16px;
+  }
+
+  .btn {
+    background-color: #4066E3;
+    color: #fff;
+    font-size: 16px;
+    border: 0;
+    border-radius: 5px;
+    width: 300px; 
+    padding: 10px 0;
+  }
+}
