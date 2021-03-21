@@ -9,14 +9,12 @@ Project created for studies purposes to understand how redux-saga works.
 * [License](#license)
 * [Contact](#contact)
 
----
 ## Technologies
 -  [ReactJS](https://reactjs.org/)
 -  [Redux](https://redux.js.org/)
 -  [Redux-Saga](https://redux-saga.js.org/)
 -  [Axios](https://github.com/axios/axios)
 
----
 ## Using this project
 1. Let's start cloning the repo:
 
@@ -34,11 +32,9 @@ Project created for studies purposes to understand how redux-saga works.
 
 `yarn dev`
 
----
 ## License
 This project uses the following license: [MIT](https://choosealicense.com/licenses/mit/)
 
----
 ## Contact 
 If you want to contact me you can reach me at:  
 [![Linkedin Badge](https://img.shields.io/badge/-camilanagano-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/camilanagano/)](https://www.linkedin.com/in/camilanagano/) 
